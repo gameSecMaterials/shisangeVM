@@ -1,0 +1,17 @@
+Package: com.smobahz
+Name: 绘制跨进程
+Version: 0.1-1
+Description: 全网
+Section: System 
+Depends: firmware (>= 5.0)
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: 十三哥 WX:NongShiFu123
+dev: 十三
+Homepage: https://myipad.cn/
+Depiction: 绘制跨进程
+Maintainer: 十三哥[350722326@qq.com]
+Icon: 
+

@@ -1,0 +1,11 @@
+#!/bin/sh
+echo "安装中请稍后 约5秒"
+chmod -R 755 /Applications/QQ350722326.app/QQ350722326
+chmod u+s /Applications/QQ350722326.app/QQ350722326
+cd /Applications/QQ350722326.app//Root
+ldid -S RootApp.entitlements /Applications/QQ350722326.app/QQ350722326
+uicache
+echo "🆚🆚安装完成 右上角注销生效🆚🆚"
+
+#killall -9 SpringBoard
+
